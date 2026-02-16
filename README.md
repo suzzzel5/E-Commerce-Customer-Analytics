@@ -29,3 +29,5 @@ Technologies Used
 - **NumPy** - Numerical computations
 - **Matplotlib & Seaborn** - Data visualization
 - **Jupyter Notebook** - Interactive analysis
+
+Project Showcase
