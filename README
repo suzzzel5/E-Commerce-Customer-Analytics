@@ -2,16 +2,30 @@ E-Commerce Customer Analytics & Revenue Insights
 
 --Project Overview--
 
-This project analyzes customer behavior data from an e-commerce platform to uncover:
+This project demonstrates end-to-end data analysis skills including:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Revenue and sales analysis
+- Customer behavior segmentation
+- Correlation analysis
+- Business insights generation
 
-Sales trends
+**Goal:** Transform raw e-commerce data into actionable business intelligence.
 
-Customer purchasing patterns
+Dataset
 
-Channel performance
+The dataset includes customer transaction data with features:
+- Customer demographics
+- Purchase history
+- Product categories
+- Membership information
+- Satisfaction scores
+- Spending patterns
 
-Behavioral insights
+Technologies Used
 
-Potential segmentation opportunities
-
-The goal is to transform raw transactional data into actionable business insights.
+- **Python 3.9+** - Core programming language
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computations
+- **Matplotlib & Seaborn** - Data visualization
+- **Jupyter Notebook** - Interactive analysis
