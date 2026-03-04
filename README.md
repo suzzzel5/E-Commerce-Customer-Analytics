@@ -1,7 +1,6 @@
 # E-Commerce Customer Analytics & Revenue Insights
 ![alt text](image.png)
-![Project Banner](reports/figures/09_membership_revenue_analysis.png)
-
+![alt text](image-1.png)
 **End-to-end data analysis project revealing customer behavior patterns, revenue drivers, and actionable business recommendations**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -186,8 +185,7 @@ E-Commerce-Customer-Analytics/
 ## Key Visualizations
 
 ### Revenue by Membership Type
-![alt text](reports/figures/09_membership_revenue_analysis.png)
-
+![alt text](image-2.png)
 **Insight:** Gold members generate over half of all revenue despite being only one-third of customer base.
 
 ---
