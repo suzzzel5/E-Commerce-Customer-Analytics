@@ -1,4 +1,6 @@
 # E-Commerce Customer Analytics & Revenue Insights
+![alt text](image.png)
+![Project Banner](reports/figures/09_membership_revenue_analysis.png)
 
 **End-to-end data analysis project revealing customer behavior patterns, revenue drivers, and actionable business recommendations**
 
@@ -197,14 +199,14 @@ E-Commerce-Customer-Analytics/
 ---
 
 ### High-Value Customer Analysis
-reports/figures/11_high_value_customers.png
+![reports/figures/11_high_value_customers.png](reports/figures/11_high_value_customers.png)
 
 **Insight:** Top 10% of customers generate 17.1% of revenue - clear VIP segment.
 
 ---
 
 ### Correlation Matrix
-reports/figures/13_correlation_matrix.png
+![reports/figures/13_correlation_matrix.png](reports/figures/13_correlation_matrix.png)
 
 **Insight:** Satisfaction, membership tier, and items purchased are strongest revenue drivers.
 
@@ -214,7 +216,6 @@ reports/figures/13_correlation_matrix.png
 
 **Source:** E-commerce customer transaction database  
 **Size:** 350 customers, 11 features  
-**Time Period:** [Add if known]  
 **Data Quality:** 100% complete, no missing values, no duplicates
 
 **Features:**
